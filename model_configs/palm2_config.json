@@ -1,0 +1,18 @@
+{
+    "model_info":{
+        "provider":"palm2",
+        "name":"models/text-bison-001"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "AIzaSyA3-85_Ubq3qiFOVS3zAe4LPUERpUxiQH8"
+        ],
+        "api_key_use": -1
+    },
+    "params":{
+        "temperature":0,
+        "seed":100,
+        "gpus":[],
+        "max_output_tokens":800
+    }
+}

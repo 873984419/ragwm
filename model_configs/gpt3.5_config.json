@@ -1,0 +1,28 @@
+{
+    "model_info":{
+        "provider":"gpt",
+        "name":"gpt-3.5-turbo-0613"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "sk-rpi1gEQHIeKMWddhcw1ZW9jMvl4prO4PlljraoHLP5OxV338",
+            "sk-FRdoUMz3CPMCuPh54624B7520c474e0d8cA4F5C7Fb238eBd",
+
+            "sk-4hDIFz2cB19eZWezD8sMCwacO1PmJhNk9CtVTrO5aJua9Vso",
+            "sk-CAwrPHY7xQRo5pu2kTsJFKqVnqpcVmhNkxeE3tJ7hE9zf0Xm"
+        ],
+        "api_key_use": 0,
+        "api_base" : [
+            "https://chatapi.littlewheat.com/v1",
+            "https://api.key77qiqi.cn/v1",
+           "https://xiaoai.one/v1",
+            "https://xiaoai.plus/v1"
+        ] 
+    },
+    "params":{
+        "temperature":0.01,
+        "seed":100,
+        "gpus":[],
+        "max_output_tokens":400
+    }
+}
