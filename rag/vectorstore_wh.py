@@ -25,7 +25,7 @@ import torch
 # ChromadbPath = '/data/sunmengjie/chromdb/wh_db/hotpotqa'
 # ChromadbPath = '/data/sunmengjie/chromdb/ms_data_ip'
 # ChromadbPath = '/data/sunmengjie/chromdb/wh_db/nq'
-ChromadbPath = '/data/sunmengjie/chromdb/wh_db/msmarco-contriever'
+# ChromadbPath = '/data/sunmengjie/chromdb/wh_db/msmarco-contriever'
 # ChromadbPath ='/data/sunmengjie/chromdb/wh_db/msmarco-ance'
 def documents_hash(documents):
     for index,document in enumerate(documents):
